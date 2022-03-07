@@ -1,0 +1,6 @@
+﻿--tạo database. cú pháp
+--CREATE DATABASE <tên database>
+CREATE DATABASE SINHVIEN
+--xóa databse . CÚ PHÁP
+--DROP DATABASE <TÊN DATABASE MUỐN XÓA>
+DROP DATABASE SINHVIEN
